@@ -1,0 +1,8 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hhmaho/learn-react.git",
+  "author": "hhmaho <42540357+hhmaho@users.noreply.github.com>",
+  "license": "MIT"
+}
