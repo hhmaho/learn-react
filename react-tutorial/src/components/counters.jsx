@@ -14,10 +14,7 @@ class Counters extends React.Component {
     return (
       <div>
         {this.state.counters.map(counter => (
-          <Counter key={counter.id} value={counter.value} id={counter.id}>
-            {/* <h4>Counter #{counter.id}</h4> */}
-            {/* For example in dialog box */}
-          </Counter>
+          <Counter key={counter.id} value={counter.value} id={counter.id} />
         ))}
       </div>
     );
